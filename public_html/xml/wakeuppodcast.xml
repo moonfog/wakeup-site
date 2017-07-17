@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang='nl-be'>
+<channel>
+			<title>Wake Up at the Other End Of The Universe</title>
+			<itunes:author>Orange Factory</itunes:author>
+			<link>http://www.wakeupattheotherendoftheuniverse.be</link>
+			<itunes:subtitle>Je wekelijkse portie stoner, doom, psychedelic en heavy rock</itunes:subtitle>
+			<language>nl-be</language>
+<description>Je wekelijkse portie stoner, doom, psychedelic, en heavy rock. </description>
+			<item>
+				<title>Wake Up At The Other End Of The Universe 14-05-2013</title>
+				<itunes:author>OrangeFactory</itunes:author>
+				<description>Weekly hour of stoner, doom, psychedelic, and heavy rock.</description>
+
+<guid>http://www.wakeupattheotherendoftheuniverse.be/wakeup14-05-2013.mp3</guid>
+<enclosure url="http://www.wakeupattheotherendoftheuniverse.be/wakeup14-05-2013.mp3" length="87009697" type="audio/mpeg" />
+                                <pubDate>Wed 15 May 2013 23:25:01 +0100</pubDate>
+				
+			</item>
+</channel>
+</rss>
+
+
+

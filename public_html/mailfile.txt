@@ -1,0 +1,8 @@
+
+
+De volgende persoon heeft zich ingeschreven op de Wake up mailing:
+
+Naam: $in{Naam}
+
+E-mail adres: $in{MAILFROM}
+
